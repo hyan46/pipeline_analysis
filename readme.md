@@ -13,9 +13,6 @@ Welcome to the Pipeline Analysis repository. This project provides tools and scr
   - [Feature Extraction](#feature-extraction)
   - [Model Training](#model-training)
   - [Model Evaluation](#model-evaluation)
-- [Configuration](#configuration)
-- [Contributing](#contributing)
-- [License](#license)
 - [Acknowledgements](#acknowledgements)
 
 ## Installation
@@ -84,3 +81,5 @@ pipeline_analysis/
 - **Directory:** `PHMSA/text_analysis/`
   - **Text_Mining.ipynb**: Jupyter notebook for text mining.
 
+### Acknowledgements
+This project is funded by DOT CAAP project, with title "Knowledge-guided Automation for Integrity Management of Aging Pipelines (KAI-MAP)", Contract Number: 693JK32150004CAAP, PI: Yongming Liu
