@@ -22,17 +22,17 @@ Welcome to the Pipeline Analysis repository. This project provides tools and scr
 
 Clone the repository and install the required dependencies.
 
-\`\`\`bash
+```bash
 git clone https://github.com/hyan46/pipeline_analysis.git
 cd pipeline_analysis
 pip install -r requirements.txt
-\`\`\`
+```
 
 ## Project Structure
 
 The repository is organized as follows:
 
-\`\`\`
+```
 pipeline_analysis/
 │
 ├── HIAD/
@@ -56,7 +56,7 @@ pipeline_analysis/
 ├── requirements.txt                                        # Required dependencies
 ├── LICENSE                                                 # License for the project
 └── README.md                                               # Readme file with project information
-\`\`\`
+```
 
 ### HIAD Data
 
